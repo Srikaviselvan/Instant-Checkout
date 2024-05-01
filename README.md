@@ -1,10 +1,6 @@
-# Required Modules
+# Instant Checkout with Computer Vision:
 
-pip3 install utralytics
-pip3 install opencv-python
-pip3 install pymysql
-pip3 install mediapipe
-
+Experience seamless shopping with our innovative computer vision system. Simply walk into the store filled with cameras that identify you with a unique ID. As you pick items, the system detects them automatically. Say goodbye to waiting in line at the checkout counter—your bill is conveniently sent straight to your phone. Enjoy the freedom to shop without the hassle of traditional checkout processes.
 
 # Instant Checkout/Object Detection/live-object-detection.py
 Detects Objects and creates a bounding box for their position
