@@ -1,0 +1,4 @@
+utralytics
+opencv-python
+pymysql 
+mediapipe
